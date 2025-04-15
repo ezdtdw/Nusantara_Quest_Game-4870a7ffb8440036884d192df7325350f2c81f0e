@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 0cf064095d82e154fb3e941920a06c9e
+guid: 3665e60f6a1bb3d4198e3836ad435d70
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5257932165585028017
-    second: kakek_museum_0
+      213: 1242309626091249474
+    second: Landscape_Desa_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -139,13 +139,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: kakek_museum_0
+      name: Landscape_Desa_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 428
-        height: 358
+        width: 7200
+        height: 660
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,8 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1b3cbc6627de7f840800000000000000
-      internalID: 5257932165585028017
+      spriteID: 24f973cd5029d3110800000000000000
+      internalID: 1242309626091249474
       vertices: []
       indices: 
       edges: []
@@ -173,8 +173,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      kakek_museum_0: 5257932165585028017
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
