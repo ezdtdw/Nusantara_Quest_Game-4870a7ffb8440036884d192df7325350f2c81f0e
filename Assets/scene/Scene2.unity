@@ -153,7 +153,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7519104040027232848, guid: f763a25308b4e36459bcbe02eb92a91c, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.425
+      value: -1.1
       objectReference: {fileID: 0}
     - target: {fileID: 7519104040027232848, guid: f763a25308b4e36459bcbe02eb92a91c, type: 3}
       propertyPath: m_LocalPosition.z
@@ -376,6 +376,7 @@ GameObject:
   m_Component:
   - component: {fileID: 532110439}
   - component: {fileID: 532110438}
+  - component: {fileID: 532110440}
   m_Layer: 6
   m_Name: Landscape_Desa_0
   m_TagString: Untagged
@@ -453,6 +454,77 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!60 &532110440
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 532110437}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 72, y: 6.606445}
+    newSize: {x: 72, y: 6.606445}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 32.80078, y: 3.2695312}
+      - {x: 28.617188, y: 3.234375}
+      - {x: 27.246094, y: 3.1992188}
+      - {x: 25.207031, y: 3.1289062}
+      - {x: 24.609375, y: 3.0585938}
+      - {x: 22.324219, y: 3.1289062}
+      - {x: 21.585938, y: 3.1992188}
+      - {x: 20.390625, y: 3.1289062}
+      - {x: 20.285156, y: 3.2695312}
+      - {x: 18.597656, y: 3.2695312}
+      - {x: 16.804688, y: 3.234375}
+      - {x: 15.644531, y: 3.2695312}
+      - {x: 15.1875, y: 3.1992188}
+      - {x: 14.027344, y: 3.234375}
+      - {x: 13.4296875, y: 3.3046875}
+      - {x: -28.69689, y: 3.3046875}
+      - {x: -29.26005, y: 3.3046875}
+      - {x: -32.09559, y: 3.3046875}
+      - {x: -35.32632, y: 3.3046875}
+      - {x: -36, y: 3.3046875}
+      - {x: -36, y: -3.3046875}
+      - {x: 36, y: -3.3046875}
+      - {x: 36, y: 3.1289062}
+      - {x: 34.242188, y: 3.1640625}
+  m_UseDelaunayMesh: 0
 --- !u!1 &1101762777
 GameObject:
   m_ObjectHideFlags: 0
@@ -576,7 +648,7 @@ Camera:
   m_GameObject: {fileID: 1281186736}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 4
+  m_ClearFlags: 2
   m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
@@ -627,8 +699,8 @@ Transform:
   m_GameObject: {fileID: 1281186736}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -11.837767, y: -0.20000005, z: -10}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -14.244437, y: -0.68000007, z: -1.0015274}
+  m_LocalScale: {x: 1, y: 1, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -650,7 +722,7 @@ MonoBehaviour:
   m_RequiresOpaqueTextureOption: 2
   m_CameraType: 0
   m_Cameras: []
-  m_RendererIndex: 0
+  m_RendererIndex: -1
   m_VolumeLayerMask:
     serializedVersion: 2
     m_Bits: 1
@@ -942,6 +1014,7 @@ Transform:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
+  - {fileID: 1281186739}
   - {fileID: 201387345}
   - {fileID: 1359242675}
   - {fileID: 1101762779}
@@ -950,4 +1023,3 @@ SceneRoots:
   - {fileID: 1742317787}
   - {fileID: 268522620}
   - {fileID: 532110439}
-  - {fileID: 1281186739}
