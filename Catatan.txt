@@ -1,0 +1,4 @@
+script{
+-dialogue.cs(dialogue>chapterdialogue>museum)
+
+}
