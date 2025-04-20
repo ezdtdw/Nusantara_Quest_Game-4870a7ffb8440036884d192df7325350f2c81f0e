@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: e6b49fd125c61dc478484cb1129782b5
+guid: e323dd8021255864f8a10b5b147b84db
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7028616704906629411
-    second: 7_0
+      213: -6327874492739862202
+    second: pohon_5_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -139,13 +139,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 7_0
+      name: pohon_5_0
       rect:
         serializedVersion: 2
-        x: 17
-        y: 73
-        width: 1051
-        height: 935
+        x: 41
+        y: 26
+        width: 643
+        height: 677
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -154,8 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 321165667a9aa8160800000000000000
-      internalID: 7028616704906629411
+      spriteID: 6414cf4ecafde28a0800000000000000
+      internalID: -6327874492739862202
       vertices: []
       indices: 
       edges: []
