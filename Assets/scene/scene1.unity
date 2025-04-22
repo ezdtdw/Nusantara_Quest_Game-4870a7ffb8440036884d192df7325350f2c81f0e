@@ -497,6 +497,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dialogueScript: {fileID: 1479811345}
+  dialogFinished: 0
 --- !u!1 &299248110
 GameObject:
   m_ObjectHideFlags: 0
@@ -3764,6 +3765,7 @@ GameObject:
   - component: {fileID: 397368519}
   - component: {fileID: 397368521}
   - component: {fileID: 397368520}
+  - component: {fileID: 397368522}
   m_Layer: 0
   m_Name: furnitur 2
   m_TagString: Untagged
@@ -3829,7 +3831,7 @@ TilemapRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 2
+  m_SortingOrder: 5
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0.45499998, y: 0.6, z: 0}
   m_MaxChunkCount: 16
@@ -3910,6 +3912,20 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!114 &397368522
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 397368518}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ccc9a5a921f1e5428ccd9f56c83145d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  kakekDialogue: {fileID: 264547520}
+  sceneToLoad: Scene2
 --- !u!4 &1219733083 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7519104040027232848, guid: f763a25308b4e36459bcbe02eb92a91c, type: 3}
@@ -3988,7 +4004,7 @@ Transform:
   m_GameObject: {fileID: 1245579343}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 6.72, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4405,7 +4421,7 @@ Transform:
   m_GameObject: {fileID: 1643748115}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -21.68, y: -1.21, z: -10}
+  m_LocalPosition: {x: 37.73, y: -1.21, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -14045,7 +14061,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7519104040027232848, guid: f763a25308b4e36459bcbe02eb92a91c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -21.85
+      value: 37.45
       objectReference: {fileID: 0}
     - target: {fileID: 7519104040027232848, guid: f763a25308b4e36459bcbe02eb92a91c, type: 3}
       propertyPath: m_LocalPosition.y
