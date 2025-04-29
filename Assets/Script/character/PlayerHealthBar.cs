@@ -17,7 +17,7 @@ public class PlayerHealthBar : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Space)) // Simulate taking damage
         {
-            TakeDamage(10);
+            TakeDamage(5);
         }
     }
 
