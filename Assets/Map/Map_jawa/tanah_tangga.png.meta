@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 2a70e6b349153e346845161ffba83ba1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -338576273361864647
+    second: tanah_tangga_0
+  - first:
+      213: -1123866663492273747
+    second: tanah_tangga_1
+  - first:
+      213: 8380553870334090354
+    second: tanah_tangga_2
+  - first:
+      213: 6204302542181335786
+    second: tanah_tangga_3
+  - first:
+      213: 8882171986411909203
+    second: tanah_tangga_4
+  - first:
+      213: -2472241306687495357
+    second: tanah_tangga_5
+  - first:
+      213: -7965723407714516898
+    second: tanah_tangga_6
+  - first:
+      213: -6786544722278294340
+    second: tanah_tangga_7
+  - first:
+      213: -8092665241887192529
+    second: tanah_tangga_8
+  - first:
+      213: 3766238651474462094
+    second: tanah_tangga_9
+  - first:
+      213: 9137068561581424547
+    second: tanah_tangga_10
+  - first:
+      213: 988686179951913379
+    second: tanah_tangga_11
+  - first:
+      213: 8640606024211664949
+    second: tanah_tangga_12
+  - first:
+      213: 8745864198228557469
+    second: tanah_tangga_13
+  - first:
+      213: -5730945232581554817
+    second: tanah_tangga_14
+  - first:
+      213: -7528822350830751692
+    second: tanah_tangga_15
+  - first:
+      213: -8511772498602595124
+    second: tanah_tangga_16
+  - first:
+      213: 2523425402366969768
+    second: tanah_tangga_17
+  - first:
+      213: -3766456147443058134
+    second: tanah_tangga_18
+  - first:
+      213: 2115439500492324979
+    second: tanah_tangga_19
+  - first:
+      213: -7235900851440375262
+    second: tanah_tangga_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tanah_tangga_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11039
+        width: 5761
+        height: 3361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938f3e85ca22d4bf0800000000000000
+      internalID: -338576273361864647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah_tangga_1
+      rect:
+        serializedVersion: 2
+        x: 6239
+        y: 11039
+        width: 5762
+        height: 3361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9b3ab59393760f0800000000000000
+      internalID: -1123866663492273747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah_tangga_2
+      rect:
+        serializedVersion: 2
+        x: 11822
+        y: 13155
+        width: 962
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cd94ec755bd4470800000000000000
+      internalID: 8380553870334090354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah_tangga_3
+      rect:
+        serializedVersion: 2
+        x: 13262
+        y: 13155
+        width: 962
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae285c15a4c1a1650800000000000000
+      internalID: 6204302542181335786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah_tangga_4
+      rect:
+        serializedVersion: 2
+        x: 11822
+        y: 11715
+        width: 963
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350f104ac50d34b70800000000000000
+      internalID: 8882171986411909203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah_tangga_5
+      rect:
+        serializedVersion: 2
+        x: 13261
+        y: 11715
+        width: 963
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34328db41a5d0bdd0800000000000000
+      internalID: -2472241306687495357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah_tangga_6
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 10505
+        width: 521
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e508920d3c0147190800000000000000
+      internalID: -7965723407714516898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah_tangga_7
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 10505
+        width: 521
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcdc40288951d1a0800000000000000
+      internalID: -6786544722278294340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah_tangga_8
+      rect:
+        serializedVersion: 2
+        x: 10995
+        y: 10046
+        width: 1442
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ac92bd6d311bf80800000000000000
+      internalID: -8092665241887192529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah_tangga_9
+      rect:
+        serializedVersion: 2
+        x: 12914
+        y: 10046
+        width: 1443
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e854b70691e544430800000000000000
+      internalID: 3766238651474462094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah_tangga_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9467
+        width: 1921
+        height: 944
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af337d42736dce70800000000000000
+      internalID: 9137068561581424547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah_tangga_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6719
+        width: 5761
+        height: 3362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a92f56a7d488bd00800000000000000
+      internalID: 988686179951913379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah_tangga_12
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 9467
+        width: 1923
+        height: 944
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5309c3d266999e770800000000000000
+      internalID: 8640606024211664949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah_tangga_13
+      rect:
+        serializedVersion: 2
+        x: 6238
+        y: 6719
+        width: 5763
+        height: 3362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e3835962d8f5970800000000000000
+      internalID: 8745864198228557469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah_tangga_14
+      rect:
+        serializedVersion: 2
+        x: 10819
+        y: 9039
+        width: 2981
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d02c0cca79770b0800000000000000
+      internalID: -5730945232581554817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah_tangga_15
+      rect:
+        serializedVersion: 2
+        x: 10841
+        y: 7913
+        width: 1442
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43036b916ff348790800000000000000
+      internalID: -7528822350830751692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah_tangga_16
+      rect:
+        serializedVersion: 2
+        x: 12760
+        y: 7913
+        width: 1443
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc6ad3820c10e980800000000000000
+      internalID: -8511772498602595124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah_tangga_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4657
+        width: 14400
+        height: 1443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7c745a802050320800000000000000
+      internalID: 2523425402366969768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah_tangga_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3198
+        width: 14400
+        height: 1443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2af195e61cdabbc0800000000000000
+      internalID: -3766456147443058134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah_tangga_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1458
+        width: 14400
+        height: 1442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370cca2840d8b5d10800000000000000
+      internalID: 2115439500492324979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah_tangga_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 14400
+        height: 1441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a23f7538ae49b90800000000000000
+      internalID: -7235900851440375262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tanah_tangga_0: -338576273361864647
+      tanah_tangga_1: -1123866663492273747
+      tanah_tangga_10: 9137068561581424547
+      tanah_tangga_11: 988686179951913379
+      tanah_tangga_12: 8640606024211664949
+      tanah_tangga_13: 8745864198228557469
+      tanah_tangga_14: -5730945232581554817
+      tanah_tangga_15: -7528822350830751692
+      tanah_tangga_16: -8511772498602595124
+      tanah_tangga_17: 2523425402366969768
+      tanah_tangga_18: -3766456147443058134
+      tanah_tangga_19: 2115439500492324979
+      tanah_tangga_2: 8380553870334090354
+      tanah_tangga_20: -7235900851440375262
+      tanah_tangga_3: 6204302542181335786
+      tanah_tangga_4: 8882171986411909203
+      tanah_tangga_5: -2472241306687495357
+      tanah_tangga_6: -7965723407714516898
+      tanah_tangga_7: -6786544722278294340
+      tanah_tangga_8: -8092665241887192529
+      tanah_tangga_9: 3766238651474462094
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
