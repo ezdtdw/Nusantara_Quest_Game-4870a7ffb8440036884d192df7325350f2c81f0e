@@ -1,70 +1,73 @@
 fileFormatVersion: 2
-guid: 2a70e6b349153e346845161ffba83ba1
+guid: 419ff6b8c3f77384d964650203b9c4cd
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -338576273361864647
-    second: tanah_tangga_0
+      213: -5258775839942932815
+    second: tanah tangga 2_0
   - first:
-      213: -1123866663492273747
-    second: tanah_tangga_1
+      213: 3093663114296772092
+    second: tanah tangga 2_1
   - first:
-      213: 8380553870334090354
-    second: tanah_tangga_2
+      213: 7030684939322595841
+    second: tanah tangga 2_2
   - first:
-      213: 6204302542181335786
-    second: tanah_tangga_3
+      213: -8036655097138270402
+    second: tanah tangga 2_3
   - first:
-      213: 8882171986411909203
-    second: tanah_tangga_4
+      213: -2034313990303213064
+    second: tanah tangga 2_4
   - first:
-      213: -2472241306687495357
-    second: tanah_tangga_5
+      213: -5313452918435358637
+    second: tanah tangga 2_5
   - first:
-      213: -7965723407714516898
-    second: tanah_tangga_6
+      213: 4140661615348034433
+    second: tanah tangga 2_6
   - first:
-      213: -6786544722278294340
-    second: tanah_tangga_7
+      213: -6267552428080241319
+    second: tanah tangga 2_7
   - first:
-      213: -8092665241887192529
-    second: tanah_tangga_8
+      213: -8525633267610378588
+    second: tanah tangga 2_8
   - first:
-      213: 3766238651474462094
-    second: tanah_tangga_9
+      213: -1299011591659799600
+    second: tanah tangga 2_9
   - first:
-      213: 9137068561581424547
-    second: tanah_tangga_10
+      213: -5882326853131352892
+    second: tanah tangga 2_10
   - first:
-      213: 988686179951913379
-    second: tanah_tangga_11
+      213: 6560460191065594323
+    second: tanah tangga 2_11
   - first:
-      213: 8640606024211664949
-    second: tanah_tangga_12
+      213: -3972629872177571668
+    second: tanah tangga 2_12
   - first:
-      213: 8745864198228557469
-    second: tanah_tangga_13
+      213: -6639685693958242748
+    second: tanah tangga 2_13
   - first:
-      213: -5730945232581554817
-    second: tanah_tangga_14
+      213: 5301845510855923500
+    second: tanah tangga 2_14
   - first:
-      213: -7528822350830751692
-    second: tanah_tangga_15
+      213: -6230268021165385681
+    second: tanah tangga 2_15
   - first:
-      213: -8511772498602595124
-    second: tanah_tangga_16
+      213: -4326979317111278616
+    second: tanah tangga 2_16
   - first:
-      213: 2523425402366969768
-    second: tanah_tangga_17
+      213: -4265073194335279701
+    second: tanah tangga 2_17
   - first:
-      213: -3766456147443058134
-    second: tanah_tangga_18
+      213: 2788413680734732548
+    second: tanah tangga 2_18
   - first:
-      213: 2115439500492324979
-    second: tanah_tangga_19
+      213: 7424909514756369111
+    second: tanah tangga 2_19
   - first:
-      213: -7235900851440375262
-    second: tanah_tangga_20
+      213: -8865449424743452876
+    second: tanah tangga 2_20
+  - first:
+      213: -4291157879621048027
+    second: tanah tangga 2_21
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -199,12 +202,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: tanah_tangga_0
+      name: tanah tangga 2_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 11039
-        width: 5761
+        y: 6639
+        width: 5737
         height: 3361
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -214,18 +217,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 938f3e85ca22d4bf0800000000000000
-      internalID: -338576273361864647
+      spriteID: 1b68bca5c331507b0800000000000000
+      internalID: -5258775839942932815
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tanah_tangga_1
+      name: tanah tangga 2_1
       rect:
         serializedVersion: 2
-        x: 6239
-        y: 11039
+        x: 6215
+        y: 6639
         width: 5762
         height: 3361
       alignment: 0
@@ -236,18 +239,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: da9b3ab59393760f0800000000000000
-      internalID: -1123866663492273747
+      spriteID: cf543662636eeea20800000000000000
+      internalID: 3093663114296772092
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tanah_tangga_2
+      name: tanah tangga 2_2
       rect:
         serializedVersion: 2
-        x: 11822
-        y: 13155
+        x: 13238
+        y: 8755
         width: 962
         height: 962
       alignment: 0
@@ -258,128 +261,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 27cd94ec755bd4470800000000000000
-      internalID: 8380553870334090354
+      spriteID: 10a1300c3b2029160800000000000000
+      internalID: 7030684939322595841
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tanah_tangga_3
+      name: tanah tangga 2_3
       rect:
         serializedVersion: 2
-        x: 13262
-        y: 13155
-        width: 962
-        height: 962
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ae285c15a4c1a1650800000000000000
-      internalID: 6204302542181335786
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tanah_tangga_4
-      rect:
-        serializedVersion: 2
-        x: 11822
-        y: 11715
-        width: 963
-        height: 962
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 350f104ac50d34b70800000000000000
-      internalID: 8882171986411909203
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tanah_tangga_5
-      rect:
-        serializedVersion: 2
-        x: 13261
-        y: 11715
-        width: 963
-        height: 962
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 34328db41a5d0bdd0800000000000000
-      internalID: -2472241306687495357
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tanah_tangga_6
-      rect:
-        serializedVersion: 2
-        x: 1400
-        y: 10505
-        width: 521
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e508920d3c0147190800000000000000
-      internalID: -7965723407714516898
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tanah_tangga_7
-      rect:
-        serializedVersion: 2
-        x: 2399
-        y: 10505
-        width: 521
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cbcdc40288951d1a0800000000000000
-      internalID: -6786544722278294340
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tanah_tangga_8
-      rect:
-        serializedVersion: 2
-        x: 10995
-        y: 10046
+        x: 12758
+        y: 7315
         width: 1442
         height: 962
       alignment: 0
@@ -390,63 +283,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f2ac92bd6d311bf80800000000000000
-      internalID: -8092665241887192529
+      spriteID: e3fadb8e4c0187090800000000000000
+      internalID: -8036655097138270402
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tanah_tangga_9
-      rect:
-        serializedVersion: 2
-        x: 12914
-        y: 10046
-        width: 1443
-        height: 962
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e854b70691e544430800000000000000
-      internalID: 3766238651474462094
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tanah_tangga_10
+      name: tanah tangga 2_4
       rect:
         serializedVersion: 2
         x: 0
-        y: 9467
-        width: 1921
-        height: 944
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3af337d42736dce70800000000000000
-      internalID: 9137068561581424547
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tanah_tangga_11
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 6719
-        width: 5761
+        y: 2319
+        width: 5737
         height: 3362
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -456,40 +305,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3a92f56a7d488bd00800000000000000
-      internalID: 988686179951913379
+      spriteID: 8f99e5e343aa4c3e0800000000000000
+      internalID: -2034313990303213064
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tanah_tangga_12
+      name: tanah tangga 2_5
       rect:
         serializedVersion: 2
-        x: 2398
-        y: 9467
-        width: 1923
-        height: 944
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5309c3d266999e770800000000000000
-      internalID: 8640606024211664949
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: tanah_tangga_13
-      rect:
-        serializedVersion: 2
-        x: 6238
-        y: 6719
+        x: 6214
+        y: 2319
         width: 5763
         height: 3362
       alignment: 0
@@ -500,19 +327,63 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d9e3835962d8f5970800000000000000
-      internalID: 8745864198228557469
+      spriteID: 358d5e9f8b2d246b0800000000000000
+      internalID: -5313452918435358637
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tanah_tangga_14
+      name: tanah tangga 2_6
       rect:
         serializedVersion: 2
-        x: 10819
-        y: 9039
-        width: 2981
+        x: 12782
+        y: 5079
+        width: 962
+        height: 1062
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b2aed0dc5967930800000000000000
+      internalID: 4140661615348034433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah tangga 2_7
+      rect:
+        serializedVersion: 2
+        x: 12782
+        y: 3739
+        width: 994
+        height: 1119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955e329064e2509a0800000000000000
+      internalID: -6267552428080241319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah tangga 2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1222
+        width: 1956
         height: 962
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -522,18 +393,128 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f7d02c0cca79770b0800000000000000
-      internalID: -5730945232581554817
+      spriteID: 4ae94deb6bddea980800000000000000
+      internalID: -8525633267610378588
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tanah_tangga_15
+      name: tanah tangga 2_9
       rect:
         serializedVersion: 2
-        x: 10841
-        y: 7913
+        x: 2278
+        y: 1222
+        width: 2166
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbb00007dbf8fde0800000000000000
+      internalID: -1299011591659799600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah tangga 2_10
+      rect:
+        serializedVersion: 2
+        x: 4775
+        y: 1447
+        width: 482
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c44d5a94e6cd5ea0800000000000000
+      internalID: -5882326853131352892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah tangga 2_11
+      rect:
+        serializedVersion: 2
+        x: 5735
+        y: 1447
+        width: 476
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d95e83f8cf6b0b50800000000000000
+      internalID: 6560460191065594323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah tangga 2_12
+      rect:
+        serializedVersion: 2
+        x: 6599
+        y: 1395
+        width: 459
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca810ccdd226ed8c0800000000000000
+      internalID: -3972629872177571668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah tangga 2_13
+      rect:
+        serializedVersion: 2
+        x: 7535
+        y: 1395
+        width: 476
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e30673a091bd3a0800000000000000
+      internalID: -6639685693958242748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah tangga 2_14
+      rect:
+        serializedVersion: 2
+        x: 9097
+        y: 1217
         width: 1442
         height: 962
       alignment: 0
@@ -544,18 +525,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 43036b916ff348790800000000000000
-      internalID: -7528822350830751692
+      spriteID: c271198d660f39940800000000000000
+      internalID: 5301845510855923500
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tanah_tangga_16
+      name: tanah tangga 2_15
       rect:
         serializedVersion: 2
-        x: 12760
-        y: 7913
+        x: 11016
+        y: 1217
         width: 1443
         height: 962
       alignment: 0
@@ -566,20 +547,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ccc6ad3820c10e980800000000000000
-      internalID: -8511772498602595124
+      spriteID: f2816fe7e34a989a0800000000000000
+      internalID: -6230268021165385681
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tanah_tangga_17
+      name: tanah tangga 2_16
       rect:
         serializedVersion: 2
-        x: 0
-        y: 4657
-        width: 14400
-        height: 1443
+        x: 139
+        y: 464
+        width: 963
+        height: 264
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -588,20 +569,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8a7c745a802050320800000000000000
-      internalID: 2523425402366969768
+      spriteID: 8e3be158c3b73f3c0800000000000000
+      internalID: -4326979317111278616
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tanah_tangga_18
+      name: tanah tangga 2_17
       rect:
         serializedVersion: 2
-        x: 0
-        y: 3198
-        width: 14400
-        height: 1443
+        x: 1579
+        y: 464
+        width: 962
+        height: 264
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -610,20 +591,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a2af195e61cdabbc0800000000000000
-      internalID: -3766456147443058134
+      spriteID: ba5ea9ee68a6fc4c0800000000000000
+      internalID: -4265073194335279701
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tanah_tangga_19
+      name: tanah tangga 2_18
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1458
-        width: 14400
-        height: 1442
+        x: 4558
+        y: 183
+        width: 1922
+        height: 962
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -632,20 +613,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 370cca2840d8b5d10800000000000000
-      internalID: 2115439500492324979
+      spriteID: 401880f087f62b620800000000000000
+      internalID: 2788413680734732548
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tanah_tangga_20
+      name: tanah tangga 2_19
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 14400
-        height: 1441
+        x: 6957
+        y: 183
+        width: 1923
+        height: 962
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -654,8 +635,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 22a23f7538ae49b90800000000000000
-      internalID: -7235900851440375262
+      spriteID: 7daa8746dd39a0760800000000000000
+      internalID: 7424909514756369111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah tangga 2_20
+      rect:
+        serializedVersion: 2
+        x: 9247
+        y: 134
+        width: 1442
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fa9f728b897f480800000000000000
+      internalID: -8865449424743452876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tanah tangga 2_21
+      rect:
+        serializedVersion: 2
+        x: 11166
+        y: 134
+        width: 1443
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529a11ed4aeb274c0800000000000000
+      internalID: -4291157879621048027
       vertices: []
       indices: 
       edges: []
@@ -674,27 +699,28 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      tanah_tangga_0: -338576273361864647
-      tanah_tangga_1: -1123866663492273747
-      tanah_tangga_10: 9137068561581424547
-      tanah_tangga_11: 988686179951913379
-      tanah_tangga_12: 8640606024211664949
-      tanah_tangga_13: 8745864198228557469
-      tanah_tangga_14: -5730945232581554817
-      tanah_tangga_15: -7528822350830751692
-      tanah_tangga_16: -8511772498602595124
-      tanah_tangga_17: 2523425402366969768
-      tanah_tangga_18: -3766456147443058134
-      tanah_tangga_19: 2115439500492324979
-      tanah_tangga_2: 8380553870334090354
-      tanah_tangga_20: -7235900851440375262
-      tanah_tangga_3: 6204302542181335786
-      tanah_tangga_4: 8882171986411909203
-      tanah_tangga_5: -2472241306687495357
-      tanah_tangga_6: -7965723407714516898
-      tanah_tangga_7: -6786544722278294340
-      tanah_tangga_8: -8092665241887192529
-      tanah_tangga_9: 3766238651474462094
+      tanah tangga 2_0: -5258775839942932815
+      tanah tangga 2_1: 3093663114296772092
+      tanah tangga 2_10: -5882326853131352892
+      tanah tangga 2_11: 6560460191065594323
+      tanah tangga 2_12: -3972629872177571668
+      tanah tangga 2_13: -6639685693958242748
+      tanah tangga 2_14: 5301845510855923500
+      tanah tangga 2_15: -6230268021165385681
+      tanah tangga 2_16: -4326979317111278616
+      tanah tangga 2_17: -4265073194335279701
+      tanah tangga 2_18: 2788413680734732548
+      tanah tangga 2_19: 7424909514756369111
+      tanah tangga 2_2: 7030684939322595841
+      tanah tangga 2_20: -8865449424743452876
+      tanah tangga 2_21: -4291157879621048027
+      tanah tangga 2_3: -8036655097138270402
+      tanah tangga 2_4: -2034313990303213064
+      tanah tangga 2_5: -5313452918435358637
+      tanah tangga 2_6: 4140661615348034433
+      tanah tangga 2_7: -6267552428080241319
+      tanah tangga 2_8: -8525633267610378588
+      tanah tangga 2_9: -1299011591659799600
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
