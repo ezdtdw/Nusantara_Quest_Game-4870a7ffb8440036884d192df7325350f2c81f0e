@@ -1,4 +1,4 @@
-using UnityEngine;
+/*using UnityEngine;
 
 public class Bullet : MonoBehaviour
 {
@@ -28,4 +28,58 @@ public class Bullet : MonoBehaviour
             Destroy(gameObject);
         }
     }
+}*/
+using UnityEngine;
+
+public class Bullet : MonoBehaviour
+{
+    public float speed = 10f;
+    public int damage = 1;
+    public PlayerHealth playerHealth; // ← drag dari Inspector (seperti EnemyDamage.cs)
+    private Vector2 direction = Vector2.right;
+
+    public void SetDirection(Vector2 dir)
+    {
+        direction = dir.normalized;
+    }
+
+    void Update()
+    {
+        transform.Translate(direction * speed * Time.deltaTime);
+    }
+
+    /*private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            if (playerHealth != null)
+            {
+                playerHealth.TakeDamage(damage);
+            }
+
+            Destroy(gameObject);
+        }
+
+        if (!other.CompareTag("Enemy") && !other.CompareTag("Bullet"))
+        {
+            Destroy(gameObject);
+        }
+    }*/
+    private void OnTriggerEnter2D(Collider2D other)
+{
+    Debug.Log("Peluru mengenai: " + other.name); // ← Tambahkan ini
+
+    if (other.CompareTag("Player"))
+    {
+        Debug.Log("Peluru mengenai PLAYER"); // ← Tambahkan ini
+
+        if (playerHealth != null)
+        {
+            playerHealth.TakeDamage(damage);
+        }
+
+        Destroy(gameObject);
+    }
+}
+
 }

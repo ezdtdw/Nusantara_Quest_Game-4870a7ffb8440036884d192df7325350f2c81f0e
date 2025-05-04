@@ -38,8 +38,30 @@ public class EnemyShoot : MonoBehaviour
         }
     }
 
-    void Shoot()
+    /*void Shoot()
     {
         Instantiate(bulletPrefab, firePoint.position, Quaternion.identity);
-    }
+    }*/
+    void Shoot()
+    {
+        /*GameObject bullet = Instantiate(bulletPrefab, firePoint.position, Quaternion.identity);
+
+        Bullet bulletScript = bullet.GetComponent<Bullet>();
+        if (bulletScript != null)
+        {
+            Vector2 direction = player.position.x < transform.position.x ? Vector2.left : Vector2.right;
+            bulletScript.SetDirection(direction);
+            bulletScript.playerHealth = player.GetComponent<PlayerHealth>(); // Set langsung
+        }*/
+        GameObject bullet = Instantiate(bulletPrefab, firePoint.position, Quaternion.identity);
+        Bullet bulletScript = bullet.GetComponent<Bullet>();
+
+        if (bulletScript != null)
+        {
+            bulletScript.SetDirection(player.position.x < transform.position.x ? Vector2.left : Vector2.right);
+            bulletScript.playerHealth = player.GetComponent<PlayerHealth>(); // ← Tambahkan baris ini
+        }
+
+}
+
 }
