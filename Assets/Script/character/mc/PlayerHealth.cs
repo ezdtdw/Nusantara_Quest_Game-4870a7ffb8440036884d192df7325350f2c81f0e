@@ -7,6 +7,9 @@ public class PlayerHealth : MonoBehaviour
     public int health;
     public int maxHealth = 10;
 
+    public SpriteRenderer playersr;
+    public PlayerMovement playerMovement;
+
     void Start()
     {
         health = maxHealth;
@@ -17,7 +20,8 @@ public class PlayerHealth : MonoBehaviour
         health -= amount;
         if (health <= 0)
         {
-            Destroy(gameObject); // Hancurkan GameObject ini
+            playersr.enabled = false;
+            playerMovement.enabled = false;
         }
     }
 }

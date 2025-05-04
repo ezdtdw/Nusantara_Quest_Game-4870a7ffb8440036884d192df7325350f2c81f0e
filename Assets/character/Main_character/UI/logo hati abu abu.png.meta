@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 4a21283e0d1c0b349a91bfb2ba1981ae
+guid: 6ed4e46826ddd35429ba638a179a0486
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5088494139463196557
-    second: Hati_Logo_0
+      213: 3629905764968621143
+    second: logo hati abu abu_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -139,7 +139,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Hati_Logo_0
+      name: logo hati abu abu_0
       rect:
         serializedVersion: 2
         x: 40
@@ -154,8 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d8f5c58b576fd9640800000000000000
-      internalID: 5088494139463196557
+      spriteID: 754e819af04006230800000000000000
+      internalID: 3629905764968621143
       vertices: []
       indices: 
       edges: []
