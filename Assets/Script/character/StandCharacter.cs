@@ -31,7 +31,7 @@ public class StandCharacter : MonoBehaviour{
             {
                 rb.bodyType = RigidbodyType2D.Dynamic; // Jika bisa didorong, aktifkan physics normal
                 rb.mass = 50; // Pastikan massanya cukup agar tidak mudah terbang
-            }
+            } //
         }
     }
 
